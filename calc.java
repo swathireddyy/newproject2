@@ -12,4 +12,8 @@ class clac{
 		int b=10;
 		return (a-b);
 }
+	public int square(){
+		int a=10;
+		return (x*x);
+}
 }
